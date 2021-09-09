@@ -6,8 +6,8 @@ For this lab you're going to modify the starter code to style the content with C
 * The text is in the index.html file.
   
 There are several CSS styles that are at play in this lab.
-* [background image](https://chnn-anne.gitbook.io/html-css/advanced-css-lectures/background-image)
-* [box-shadow](https://chnn-anne.gitbook.io/html-css/advanced-css-lectures/box-shadow)
-* [centering content](https://chnn-anne.gitbook.io/html-css/advanced-css/centering-elements)
+* [background image](https://chnn-anne.gitbook.io/html-css-fall-2021/miscellaneous-topics/background-image)
+* [box-shadow](https://chnn-anne.gitbook.io/html-css-fall-2021/miscellaneous-topics/box-shadow)
+* [centering content](https://chnn-anne.gitbook.io/html-css-fall-2021/miscellaneous-topics/centering-elements)
 
 ![](design/design.png)
